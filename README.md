@@ -2,11 +2,9 @@
 
 The ARC Dashboard is a set of workbooks composed of visual and charts installed on the customer subscription in the Workbooks area. The Dashboard exposes detailed information about the following: 
 
-SQL resources  
-
-ARC installation status details 
-
-ARC Best Practice Assessment results 
+* SQL resources  
+* ARC installation status details 
+* ARC Best Practice Assessment results 
 
  
 ## SQL Resources 
@@ -25,7 +23,7 @@ This part allows the navigation of ARC Best Practice Assessment at infrastructur
 
  
 
-## Goal 
+### Goal 
 
 For this area, the ARC Dashboard serves as a strategic tool for driving continuous improvement and alignment with industry SQL Server best practices. The Dashboard empowers stakeholders to drill down deeper into the assessment findings, enabling informed decision-making and prioritization of the most critical issues at infra level, and the corresponding remediation efforts.  
 
@@ -41,7 +39,7 @@ Copilot has been trained with ARC BP data and official SQL Best Practice documen
 
  
 
-## Goal 
+### Goal 
 
 Copilot component introduces the advantage of streamlining and enhancing the content creation process through its advanced AI capabilities.  
 
