@@ -1,4 +1,4 @@
-# ARC Dashboard: 
+# ARC Dashboard
 
 The ARC Dashboard is a set of workbooks composed of visual and charts installed on the customer subscription in the Workbooks area. The Dashboard exposes detailed information about the following: 
 
@@ -9,7 +9,7 @@ ARC installation status details
 ARC Best Practice Assessment results 
 
  
-#SQL Resources 
+## SQL Resources 
 
 This part shows details about all the SQL instances, including versions, editions, and the number of databases for each instance. Moreover, for each SQL instance it shows the build number, collation, and the supports (Standard and Extended) expiration dates.  
 
