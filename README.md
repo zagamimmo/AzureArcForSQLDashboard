@@ -19,13 +19,13 @@ This part shows the list of ARC machines with SQL Server installed, together wit
 
  
 
-#BPA 
+## BPA 
 
 This part allows the navigation of ARC Best Practice Assessment at infrastructure level. Through intuitive visualization, it is possible to navigate all data coming from the Assessment, identify the most critical issues and localize corresponding instances or databases affected, with an extremely quick navigation experience. With a few clicks it is possible to start with the infrastructure vision and go in detail to analyze the details of a single specific issue, getting information about the problem and best practice information as well.  
 
  
 
-#Goal 
+## Goal 
 
 For this area, the ARC Dashboard serves as a strategic tool for driving continuous improvement and alignment with industry SQL Server best practices. The Dashboard empowers stakeholders to drill down deeper into the assessment findings, enabling informed decision-making and prioritization of the most critical issues at infra level, and the corresponding remediation efforts.  
 
@@ -33,7 +33,7 @@ Far more than a mere collection of findings, this delivery serves as a roadmap t
 
  
 
-#Copilot component 
+## Copilot component 
 
 The delivery includes a Copilot component which is used to increase our ability to identify issues and define the remediation steps starting from best practice documentation.  
 
@@ -41,7 +41,7 @@ Copilot has been trained with ARC BP data and official SQL Best Practice documen
 
  
 
-#Goal 
+## Goal 
 
 Copilot component introduces the advantage of streamlining and enhancing the content creation process through its advanced AI capabilities.  
 
