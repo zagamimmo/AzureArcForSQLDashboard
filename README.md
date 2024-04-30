@@ -13,7 +13,7 @@ ARC Best Practice Assessment results
 
 This part shows details about all the SQL instances, including versions, editions, and the number of databases for each instance. Moreover, for each SQL instance it shows the build number, collation, and the supports (Standard and Extended) expiration dates.  
 
-#ARC Installation 
+## ARC Installation 
 
 This part shows the list of ARC machines with SQL Server installed, together with information about the correct installation and configuration of ARC SQL Server extension. With this section is it possible to verify that ARC nodes are connected to Azure, ARC agents are up and running and the environment is correctly configured to operate efficiently. 
 
