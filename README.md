@@ -1,4 +1,4 @@
-#ARC Dashboard: 
+# ARC Dashboard: 
 
 The ARC Dashboard is a set of workbooks composed of visual and charts installed on the customer subscription in the Workbooks area. The Dashboard exposes detailed information about the following: 
 
